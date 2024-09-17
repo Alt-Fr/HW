@@ -1,3 +1,3 @@
 x <- input('Впишите имя')
-print(f'Hello, {x}')
+print(f'Привет, {x}')
 
